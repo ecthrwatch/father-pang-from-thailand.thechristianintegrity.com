@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://father-pang-from-thailand.thechristianintegrity.com/sitemap-index.xml
